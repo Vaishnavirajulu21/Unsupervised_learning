@@ -95,8 +95,7 @@ The dataset includes:
 ---
 
 ## 👩‍💻 Author
-**Vaishnavi**  
-Biomedical Engineering Graduate  
-Aspiring Data Analyst | Python Developer | ML Enthusiast  
+**Vaishnavi**   
+Aspiring Data Scientist | ML Enthusiast  
 
 ⭐ If you find this project useful, feel free to star the repository!
