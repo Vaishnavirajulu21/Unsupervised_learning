@@ -1,7 +1,12 @@
 # 🛍️ Customer Shopping Trends Analysis
 
-**Label: Project Type**  
-Unsupervised Learning | Customer Segmentation & Anomaly Detection
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-green)
+![Clustering](https://img.shields.io/badge/Clustering-KMeans-orange)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality-PCA-purple)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-IsolationForest-red)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
