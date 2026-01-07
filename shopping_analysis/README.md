@@ -186,8 +186,8 @@
 
 ---
 
-##👩‍💻 Author
--**Vaishnavi**
--Aspiring Data Scientist | ML Enthusiast
+## 👩‍💻 Author
+- **Vaishnavi**
+- Aspiring Data Scientist | ML Enthusiast
 
 ⭐ If you find this project useful, feel free to star the repository!
