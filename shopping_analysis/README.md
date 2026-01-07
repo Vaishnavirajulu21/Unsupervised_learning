@@ -186,7 +186,8 @@
 
 ---
 
-## ▶️ How to Run the Project
-- **Label: Step 1**
-```bash
-git clone https://github.com/your-username/unsupervised-learning.git
+##👩‍💻 Author
+-**Vaishnavi**
+-Aspiring Data Scientist | ML Enthusiast
+
+⭐ If you find this project useful, feel free to star the repository!
